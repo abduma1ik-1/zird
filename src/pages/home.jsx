@@ -53,7 +53,7 @@ const Home = () => {
                                 <button className='main_button1'>Discover Now</button>
                                 <div className='main_button2'>
                                     <img src={Play} alt="" /> Watch Demo
-                                </div>
+                      dd          </div>
                             </div>
                         </div>
                         <div className='main_right'>
